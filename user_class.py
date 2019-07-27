@@ -6,7 +6,6 @@ class User:
         self.legs = legs
         self.scary_level = scare_level
 
-
     def scare(self):
         return "scream"
 
@@ -14,5 +13,6 @@ class User:
         return "ROARRRRRR"
 
     def pull_ugly_face(self):
-        return "o0 0o" \
-               " www "
+        return "  o0o  o0o   \n" \
+               "     00      \n" \
+               " wwwwwwwwww "
