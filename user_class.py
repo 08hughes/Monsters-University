@@ -1,13 +1,18 @@
 class User:
 
     def __init__(self, name, age, legs, scare_level):
-        pass
+        self.name = name
+        self.age = age
+        self.legs = legs
+        self.scary_level = scare_level
+
 
     def scare(self):
-        pass
+        return "scream"
 
     def roar(self):
-        pass
+        return "ROARRRRRR"
 
     def pull_ugly_face(self):
-        pass
+        return "o0 0o" \
+               " www "
