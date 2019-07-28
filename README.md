@@ -42,3 +42,22 @@ Monsters in the University
   - number_of_legs
   - scare_level
 	
+# add student to batch
+# name = input("Enter name: ")
+# age = input("Enter age: ")
+# legs = input("Enter number of legs: ")
+# skills = []
+# skills.append(input("Enter a skill: "))
+# scare_level = input("Enter scare level: ")
+#
+# new_student = Student(name, age, legs, skills, scare_level)
+# print(new_student.student_id, new_student.name, new_student.skills)
+
+# print modules
+
+# print(Module.list_modules())
+
+# As a user I want to add a student monster to a workshop
+
+# As a user I want to list all students in a batch
+##############################
